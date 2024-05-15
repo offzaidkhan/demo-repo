@@ -1,4 +1,4 @@
 # demo-repo
 this is my first repo
 <br>
-Author: Zaid Khan
+Author: MD Zaid Khan
